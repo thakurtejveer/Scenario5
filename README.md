@@ -7,7 +7,7 @@ A user should be able to enter text in the .html template file of component3. Th
 component1 (grandparent) should display the text.
 Create the task in a scenario5 folder of your project. All files of the components should be inside the
 scenario5 folder.
-
+PS- Data is flowing from child to grand parents.
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.14.
